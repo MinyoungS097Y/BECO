@@ -1,0 +1,13 @@
+<svg id="best_bg" xmlns="http://www.w3.org/2000/svg" width="1603" height="775" viewBox="0 0 1603 775">
+  <circle id="타원_43" data-name="타원 43" cx="100" cy="100" r="100" transform="translate(1403)" fill="rgba(142,129,119,0.45)"/>
+  <circle id="타원_35" data-name="타원 35" cx="350" cy="350" r="350" transform="translate(0 40)" fill="rgba(142,129,119,0.45)"/>
+  <g id="타원_52" data-name="타원 52" transform="translate(942 665)" fill="none" stroke="rgba(142,129,119,0.6)" stroke-width="5">
+    <circle cx="55" cy="55" r="55" stroke="none"/>
+    <circle cx="55" cy="55" r="52.5" fill="none"/>
+  </g>
+  <circle id="타원_44" data-name="타원 44" cx="39" cy="39" r="39" transform="translate(728 193)" fill="rgba(27,37,64,0.76)"/>
+  <g id="타원_37" data-name="타원 37" transform="translate(997 174)" fill="none" stroke="rgba(27,37,64,0.76)" stroke-width="10">
+    <circle cx="221" cy="221" r="221" stroke="none"/>
+    <circle cx="221" cy="221" r="216" fill="none"/>
+  </g>
+</svg>
